@@ -1,0 +1,27 @@
+h1 {
+			text-align:left;
+		}
+	
+		.container {
+			text-align: left;
+			width:50%;
+			min-width:70%;
+			margin-bottom:50px;
+		}	
+		
+		img {
+			display:block;
+			margin:auto;
+			width:100%;
+		}
+
+		.password {
+			text-align:center;
+			font-size:40px;
+			margin-bottom:25px;
+			color:#111;
+			background-color:#eee;
+			display:inline-block;
+			padding:15px;
+			font-weight:800;
+		}

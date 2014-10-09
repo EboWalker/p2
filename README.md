@@ -10,8 +10,8 @@ An XKCD style password generator.
 
 ----
 ## Demo
-No demo for Project 1. 
 http://www.youtube.com/watch?v=_0lw_BVI5qA
+
 ----
 ## Details for the Teaching team.
 No login required
